@@ -7,10 +7,8 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  line-height: 70px;
-  text-indent: 40px;
-  height: 70px;
+  padding: 30px;
+  text-align: start;
   margin: 10px;
 }
 
@@ -26,7 +24,7 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  text-indent: 0px;
+  text-align: start;
   padding: 30px;
   margin-left: auto;
 }
